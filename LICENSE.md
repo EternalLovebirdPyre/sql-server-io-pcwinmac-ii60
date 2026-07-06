@@ -1,4 +1,4 @@
-# 
+# Élite SQL Server Management Studio scripts para Mac OS | VIP SQL Server Management Studio scripts para PC Windows. Con documentación API y flujo de trabajo de pull request — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
